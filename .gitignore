@@ -1,0 +1,16 @@
+# Python / Flask / Virtualenv
+.venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+instance/
+.env
+
+# Logs
+*.log
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
